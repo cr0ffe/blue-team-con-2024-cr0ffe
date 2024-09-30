@@ -1,0 +1,1297 @@
+{
+    "IOC_Categories": [
+        {
+            "category": "File Indicators",
+            "indicators": [
+                {
+                    "name": "readme.blacksuit.txt",
+                    "hashes": {
+                        "SHA-256": "1743494F803BBCBD11150A4A8B7A2C5FABA1223DA607F67D24B18CA2D95D5BA3"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "_EXEC .bat",
+                    "hashes": {
+                        "SHA-256": "8F87A1542EE790623896BBAAB933D1883484DE02A7B3D65D6C791D50173A923D"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "2.bat",
+                    "hashes": {
+                        "SHA-256": "3041DFC13F356C2F0133A9C11A258F87CB7DE1E17BC435E9B623D74BC5E1C6BE"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "Mwntv.sys",
+                    "hashes": {
+                        "SHA-256": "6332F189CC71DF646FF0F1B9B02A005C9EBDA3FE7B9712976660746913B030DE"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "exe.exe",
+                    "hashes": {
+                        "SHA-256": "338228A3E79F3993ABC102CBAC2FF253C84965213D59AC30892538CDD9B0A22B"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "776-svchost.exe",
+                    "hashes": {
+                        "SHA-256": "BBB7404419F91F82CEDFEC915931A9339F04165B27D8878D63827C9EE421ED62"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "372-winlogon.exe",
+                    "hashes": {
+                        "SHA-256": "68C57DAED0E5899C49B827042BCF3BBEBA33B524BD83315A44D889721664DC34"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "288-csrss.exe",
+                    "hashes": {
+                        "SHA-256": "EE6EC2810910C6D2A2957F041EDD1E39DCA4266A1CC8009AE6D7315ABA9196F5"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "qq.exe",
+                    "hashes": {
+                        "SHA-256": "3C8C1B1F53E0767B7291BB1AE605FFA62A93E9C8CC783E4CA47AC84B48320D59"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "socss.exe",
+                    "hashes": {
+                        "SHA-256": "C798B2690C5F16EB2917A679AF3117CFE9C7060FA8BC84FFC3159338EF33508E"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "share$.zip",
+                    "hashes": {
+                        "SHA-256": "E3D7C012040962ACD66F395D1C5C5F73F305AA1058F2111E8E37D9CB213B80C4"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "socks.ps1",
+                    "hashes": {
+                        "SHA-256": "25A6F82936134A6C5C0066F382530B9D6BF2C8DA6FEAFE028F166B1A9D7283CF"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "%APPDATA% ZoomAlternative Workplace Strategies.js",
+                    "hashes": {
+                        "SHA-256": "E813F8FAF3AA2EB20E285596413F5088B2D7FD153FE9F72F3FF45735D0FDDCED"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "locker_N1uYkmEsfoHmT4lK66trUjBuy5gyAj7n.ex_",
+                    "hashes": {
+                        "SHA-256": "146335B1BE627318AC09476F0C8F8E6E027805E6077673F72D6DCE1677A24C78"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "Wen.exe",
+                    "hashes": {
+                        "SHA-256": "01CE9CFEBB29596D0AB7C99E8DBADF1A8409750B183E6BF73E0DE021B365BE13"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "aaa.exe",
+                    "hashes": {
+                        "SHA-256": "8D16A23D5A5630502B09C33FBC571D2261C6C98FECC3A79A1E1129354F930D0A"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "aaa.exe",
+                    "hashes": {
+                        "SHA-256": "C4A2227CD8D85128EAFEF8EE2298AA105DA892C8B0F37405667C2D1647C35C46"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "1.exe",
+                    "hashes": {
+                        "SHA-256": "AF9F95497B8503AF1A399BC6F070C3BBEABC5AEECD8C09BCA80495831AE71E61"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "svchost.exe",
+                    "hashes": {
+                        "SHA-256": "9BBC9784CE3C818A127DEBFE710EC6CE21E7C9DD0DAF4E30B8506A6DBA533DB4"
+                    },
+                    "valid_from": "2023-07-01T00:00:00Z"
+                },
+                {
+                    "name": "socks32.exe",
+                    "hashes": {
+                        "SHA-256": "9493B512D7D15510EBEE5B300C55B67F9F2FF1DDA64BDDC99BA8BA5024113300"
+                    },
+                    "valid_from": "2019-06-01T00:00:00Z"
+                },
+                {
+                    "name": "ll.exe",
+                    "hashes": {
+                        "SHA-256": "F0197BD7CCD568C523DF9C7D9AFCBAC222F14D344312322C04C92E7968859726"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "defw10.bat",
+                    "hashes": {
+                        "SHA-256": "FB638DBA20E5FEC72F5501D7E0627B302834EC5EAF331DD999763EE925CBC0F9"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "f827.exe",
+                    "hashes": {
+                        "SHA-256": "5654F32A4F0F2E900A35761E8CAF7EF0C50EE7800E0A3B19354B571BC6876F61"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "InstallerV8.1.ms",
+                    "hashes": {
+                        "SHA-256": "3E6E2E0DE75896033D91DFD07550C478590CA4CD4598004D9E19246E8A09CB97"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadssr.bat",
+                    "hashes": {
+                        "SHA-256": "34A98F2B54EBAB999F218B0990665485EB2BB74BABDF7E714CC10A306616B00C"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadssc.bat",
+                    "hashes": {
+                        "SHA-256": "E0DBE3A2D07EE10731B68A142C65DB077CFB88E5EC5C8415E548D3EDE40E7FFC"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun4.bat",
+                    "hashes": {
+                        "SHA-256": "84E1EFBED6BB7720CAEA6720A8BFF7CD93B5D42FB1D71EF8031BFD3897ED4435"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun3.bat",
+                    "hashes": {
+                        "SHA-256": "2B93206D7A36CCCDF7D7596B90EAD301B2FF7E9A96359F39B6BA31BB13D11F45"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun2.bat",
+                    "hashes": {
+                        "SHA-256": "13C25164791D3436CF2EFBC410CAEC6B6DD6978D7E83C4766917630E24E1AF10"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun1.bat",
+                    "hashes": {
+                        "SHA-256": "BC609CF53DDE126B766D35B5BCF0A530C24D91FE23633DAD6C2C59FD1843F781"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%PROGRAMDATA%wine.exe",
+                    "hashes": {
+                        "SHA-256": "5B08C02C141EAB94A40B56240A26CAB7FF07E9A6E760DFDE8B8B053A3526F0E6"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "windows_encryptor.exe",
+                    "hashes": {
+                        "SHA-256": "85087F28A84205E344D7E8E06979E6622FAB0CFE1759FD24E38CD0390BCA5FA6"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "1c849adcccad4643303297fb66bfe81c5536be39a87601d67664af1d14e02b9e.elf",
+                    "hashes": {
+                        "SHA-256": "1C849ADCCCAD4643303297FB66BFE81C5536BE39A87601D67664AF1D14E02B9E"
+                    },
+                    "valid_from": "2022-05-01T00:00:00Z"
+                },
+                {
+                    "name": "sys32.exe",
+                    "hashes": {
+                        "SHA-256": "90AE0C693F6FFD6DC5BB2D5A5EF078629C3D77F874B2D2EBD9E109D8CA049F2C"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "r.bat",
+                    "hashes": {
+                        "SHA-256": "74D81EF0BE02899A177D7FF6374D699B634C70275B3292DBC67E577B5F6A3F3C"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "gp.bat",
+                    "hashes": {
+                        "SHA-256": "82F1F72F4B1BFD7CC8AFBE6D170686B1066049BC7E5863B51AA15CCC5C841F58"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "kl.bat",
+                    "hashes": {
+                        "SHA-256": "A83A5810EA7A4F02D4623C509DD9B88AD4E432177143E9E9B2B30F9B2943A1B0"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "readme.blacksuit.txt",
+                    "hashes": {
+                        "SHA-256": "1743494F803BBCBD11150A4A8B7A2C5FABA1223DA607F67D24B18CA2D95D5BA3"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "_EXEC .bat",
+                    "hashes": {
+                        "SHA-256": "8F87A1542EE790623896BBAAB933D1883484DE02A7B3D65D6C791D50173A923D"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "2.bat",
+                    "hashes": {
+                        "SHA-256": "3041DFC13F356C2F0133A9C11A258F87CB7DE1E17BC435E9B623D74BC5E1C6BE"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "Mwntv.sys",
+                    "hashes": {
+                        "SHA-256": "6332F189CC71DF646FF0F1B9B02A005C9EBDA3FE7B9712976660746913B030DE"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "exe.exe",
+                    "hashes": {
+                        "SHA-256": "338228A3E79F3993ABC102CBAC2FF253C84965213D59AC30892538CDD9B0A22B"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "776-svchost.exe",
+                    "hashes": {
+                        "SHA-256": "BBB7404419F91F82CEDFEC915931A9339F04165B27D8878D63827C9EE421ED62"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "372-winlogon.exe",
+                    "hashes": {
+                        "SHA-256": "68C57DAED0E5899C49B827042BCF3BBEBA33B524BD83315A44D889721664DC34"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "288-csrss.exe",
+                    "hashes": {
+                        "SHA-256": "EE6EC2810910C6D2A2957F041EDD1E39DCA4266A1CC8009AE6D7315ABA9196F5"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "qq.exe",
+                    "hashes": {
+                        "SHA-256": "3C8C1B1F53E0767B7291BB1AE605FFA62A93E9C8CC783E4CA47AC84B48320D59"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "socss.exe",
+                    "hashes": {
+                        "SHA-256": "C798B2690C5F16EB2917A679AF3117CFE9C7060FA8BC84FFC3159338EF33508E"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "share$.zip",
+                    "hashes": {
+                        "SHA-256": "E3D7C012040962ACD66F395D1C5C5F73F305AA1058F2111E8E37D9CB213B80C4"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "socks.ps1",
+                    "hashes": {
+                        "SHA-256": "25A6F82936134A6C5C0066F382530B9D6BF2C8DA6FEAFE028F166B1A9D7283CF"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "%APPDATA% ZoomAlternative Workplace Strategies.js",
+                    "hashes": {
+                        "SHA-256": "E813F8FAF3AA2EB20E285596413F5088B2D7FD153FE9F72F3FF45735D0FDDCED"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "locker_N1uYkmEsfoHmT4lK66trUjBuy5gyAj7n.ex_",
+                    "hashes": {
+                        "SHA-256": "146335B1BE627318AC09476F0C8F8E6E027805E6077673F72D6DCE1677A24C78"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "Wen.exe",
+                    "hashes": {
+                        "SHA-256": "01CE9CFEBB29596D0AB7C99E8DBADF1A8409750B183E6BF73E0DE021B365BE13"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "aaa.exe",
+                    "hashes": {
+                        "SHA-256": "8D16A23D5A5630502B09C33FBC571D2261C6C98FECC3A79A1E1129354F930D0A"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "aaa.exe",
+                    "hashes": {
+                        "SHA-256": "C4A2227CD8D85128EAFEF8EE2298AA105DA892C8B0F37405667C2D1647C35C46"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "1.exe",
+                    "hashes": {
+                        "SHA-256": "AF9F95497B8503AF1A399BC6F070C3BBEABC5AEECD8C09BCA80495831AE71E61"
+                    },
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "name": "svchost.exe",
+                    "hashes": {
+                        "SHA-256": "9BBC9784CE3C818A127DEBFE710EC6CE21E7C9DD0DAF4E30B8506A6DBA533DB4"
+                    },
+                    "valid_from": "2023-07-01T00:00:00Z"
+                },
+                {
+                    "name": "socks32.exe",
+                    "hashes": {
+                        "SHA-256": "9493B512D7D15510EBEE5B300C55B67F9F2FF1DDA64BDDC99BA8BA5024113300"
+                    },
+                    "valid_from": "2019-06-01T00:00:00Z"
+                },
+                {
+                    "name": "ll.exe",
+                    "hashes": {
+                        "SHA-256": "F0197BD7CCD568C523DF9C7D9AFCBAC222F14D344312322C04C92E7968859726"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "defw10.bat",
+                    "hashes": {
+                        "SHA-256": "FB638DBA20E5FEC72F5501D7E0627B302834EC5EAF331DD999763EE925CBC0F9"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "f827.exe",
+                    "hashes": {
+                        "SHA-256": "5654F32A4F0F2E900A35761E8CAF7EF0C50EE7800E0A3B19354B571BC6876F61"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "InstallerV8.1.ms",
+                    "hashes": {
+                        "SHA-256": "3E6E2E0DE75896033D91DFD07550C478590CA4CD4598004D9E19246E8A09CB97"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadssr.bat",
+                    "hashes": {
+                        "SHA-256": "34A98F2B54EBAB999F218B0990665485EB2BB74BABDF7E714CC10A306616B00C"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadssc.bat",
+                    "hashes": {
+                        "SHA-256": "E0DBE3A2D07EE10731B68A142C65DB077CFB88E5EC5C8415E548D3EDE40E7FFC"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun4.bat",
+                    "hashes": {
+                        "SHA-256": "84E1EFBED6BB7720CAEA6720A8BFF7CD93B5D42FB1D71EF8031BFD3897ED4435"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun3.bat",
+                    "hashes": {
+                        "SHA-256": "2B93206D7A36CCCDF7D7596B90EAD301B2FF7E9A96359F39B6BA31BB13D11F45"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun2.bat",
+                    "hashes": {
+                        "SHA-256": "13C25164791D3436CF2EFBC410CAEC6B6DD6978D7E83C4766917630E24E1AF10"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%USERPROFILE%Downloadsrun1.bat",
+                    "hashes": {
+                        "SHA-256": "BC609CF53DDE126B766D35B5BCF0A530C24D91FE23633DAD6C2C59FD1843F781"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "%PROGRAMDATA%wine.exe",
+                    "hashes": {
+                        "SHA-256": "5B08C02C141EAB94A40B56240A26CAB7FF07E9A6E760DFDE8B8B053A3526F0E6"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "windows_encryptor.exe",
+                    "hashes": {
+                        "SHA-256": "85087F28A84205E344D7E8E06979E6622FAB0CFE1759FD24E38CD0390BCA5FA6"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "1c849adcccad4643303297fb66bfe81c5536be39a87601d67664af1d14e02b9e.elf",
+                    "hashes": {
+                        "SHA-256": "1C849ADCCCAD4643303297FB66BFE81C5536BE39A87601D67664AF1D14E02B9E"
+                    },
+                    "valid_from": "2022-05-01T00:00:00Z"
+                },
+                {
+                    "name": "sys32.exe",
+                    "hashes": {
+                        "SHA-256": "90AE0C693F6FFD6DC5BB2D5A5EF078629C3D77F874B2D2EBD9E109D8CA049F2C"
+                    },
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "name": "r.bat",
+                    "hashes": {
+                        "SHA-256": "74D81EF0BE02899A177D7FF6374D699B634C70275B3292DBC67E577B5F6A3F3C"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "gp.bat",
+                    "hashes": {
+                        "SHA-256": "82F1F72F4B1BFD7CC8AFBE6D170686B1066049BC7E5863B51AA15CCC5C841F58"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "kl.bat",
+                    "hashes": {
+                        "SHA-256": "A83A5810EA7A4F02D4623C509DD9B88AD4E432177143E9E9B2B30F9B2943A1B0"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "8.bat",
+                    "hashes": {},
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "4.bat",
+                    "hashes": {},
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "3.bat",
+                    "hashes": {},
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "2.bat",
+                    "hashes": {},
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "runanddelete.bat",
+                    "hashes": {
+                        "SHA-256": "342B398647073159DFA8A7D36510171F731B760089A546E96FBB8A292791EFEE"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "wstart.exe",
+                    "hashes": {
+                        "SHA-256": "D47D4B52E75E8CF3B11EA171163A66C06D1792227C1CF7CA49D7DF60804A1681"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "scripttodo.ps1",
+                    "hashes": {
+                        "SHA-256": "4CD00234B18E04DCD745CC81BB928C8451F6601AFFB5FA45F20BB11BFB5383CE"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "d2ef5.exe",
+                    "hashes": {
+                        "SHA-256": "BE030E685536EB38BA1FEC1C90E90A4165F6641C8DC39291DB1D23F4EE9FA0B1"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "shutdowni.bat",
+                    "hashes": {
+                        "SHA-256": "8A983042278BC5897DBCDD54D1D7E3143F8B7EAD553B5A4713E30DEFFDA16375"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "f24dc8ea.msi",
+                    "hashes": {
+                        "SHA-256": "91605641A4C7E859B7071A9841D1CD154B9027E6A58C20EC4CADAFEAF47C9055"
+                    },
+                    "valid_from": "2022-11-19T00:00:00Z"
+                },
+                {
+                    "name": "dontsleep.exe",
+                    "hashes": {
+                        "SHA-256": "F8CFF7082A936912BAF2124D42ED82403C75C87CB160553A7DF862F8D81809EE"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "NSudo.exe",
+                    "hashes": {
+                        "SHA-256": "19896A23D7B054625C2F6B1EE1551A0DA68AD25CDDBB24510A3B74578418E618"
+                    },
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "name": "75b55bb34dac9d02740b9ad6b6820360",
+                    "hashes": {
+                        "SHA-256": "141B2190F51397DBD0DFDE0E3904B264C91B6F81FEBC823FF0C33DA980B69944"
+                    },
+                    "valid_from": "2006-02-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "category": "IPv4 Indicators",
+            "indicators": [
+                {
+                    "ip": "5.181.157.8",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "45.76.225.156",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "140.82.18.48",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "141.98.80.181",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "193.37.69.116",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "184.166.211.74",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "180.131.145.61",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "135.148.67.84",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "184.174.96.16",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "89.251.22.32",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "180.131.145.85",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "138.199.53.226",
+                    "valid_from": "2023-05-01T00:00:00Z"
+                },
+                {
+                    "ip": "143.244.146.183",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "45.141.87.218",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "137.220.61.94",
+                    "valid_from": "2019-06-01T00:00:00Z"
+                },
+                {
+                    "ip": "149.28.73.161",
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "ip": "155.138.150.236",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "144.202.120.122",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "47.87.229.39",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "5.181.234.58",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "45.61.136.47",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "193.235.146.104",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "193.149.176.157",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "185.7.214.218",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "152.89.247.50",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "147.135.11.223",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "147.135.36.162",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "140.82.48.158",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "5.181.157.8",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "45.76.225.156",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "140.82.18.48",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "141.98.80.181",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "193.37.69.116",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "184.166.211.74",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "180.131.145.61",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "135.148.67.84",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "184.174.96.16",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "89.251.22.32",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "180.131.145.85",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "138.199.53.226",
+                    "valid_from": "2023-05-01T00:00:00Z"
+                },
+                {
+                    "ip": "143.244.146.183",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "45.141.87.218",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "137.220.61.94",
+                    "valid_from": "2019-06-01T00:00:00Z"
+                },
+                {
+                    "ip": "149.28.73.161",
+                    "valid_from": "2023-03-02T00:00:00Z"
+                },
+                {
+                    "ip": "155.138.150.236",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "144.202.120.122",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "47.87.229.39",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "5.181.234.58",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "45.61.136.47",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "193.235.146.104",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "193.149.176.157",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "185.7.214.218",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "152.89.247.50",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "147.135.11.223",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "147.135.36.162",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "140.82.48.158",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "185.190.24.103",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "ip": "77.73.133.84",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "179.43.167.10",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "5.44.42.20",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "94.232.41.105",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "209.141.36.116",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "105.69.155.85",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "98.143.70.147",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "82.12.196.197",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "81.184.181.215",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "68.83.169.91",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "61.166.221.46",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "45.227.251.167",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "42.189.12.36",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "41.97.65.51",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "41.251.121.35",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "41.109.11.80",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "41.107.77.67",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "41.100.55.97",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "197.94.67.207",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "197.207.218.27",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "197.207.181.147",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "197.204.247.7",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "197.158.89.85",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "197.11.134.255",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "196.70.77.11",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "190.193.180.228",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "186.64.67.6",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "181.164.194.228",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "181.141.3.126",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "163.182.177.80",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "148.213.109.165",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "139.195.43.166",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "134.35.9.209",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "113.169.187.159",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "105.158.118.241",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "102.157.44.105",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "186.86.212.138",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "139.60.161.213",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "45.8.158.104",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "23.111.114.52",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "185.143.223.69",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "5.188.86.195",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "ip": "89.108.65.136",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "category": "FQDN Indicators",
+            "indicators": [
+                {
+                    "fqdn": "store.turnovercheck.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "mail.turnovercheck.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "store.abbeymathiass.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "mail.abbeymathiass.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "abbeymathiass.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "turnovercheck.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "mystuff.bublup.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "megupdate.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "zoommanager.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "hourlyprofitstore.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "recruitment-interview.org",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "parkerpublic.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "ciborkumari.xyz",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "store.turnovercheck.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "mail.turnovercheck.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "store.abbeymathiass.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "mail.abbeymathiass.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "abbeymathiass.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "turnovercheck.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "mystuff.bublup.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "megupdate.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "zoommanager.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "hourlyprofitstore.com",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "recruitment-interview.org",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "fqdn": "parkerpublic.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "ciborkumari.xyz",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "myappearinc.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "tumbleproperty.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "altocloudzone.live",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "gororama.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "softeruplive.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "fqdn": "sombrat.com",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "category": "URL Indicators",
+            "indicators": [
+                {
+                    "url": "https://protect-us.mimecast.com/s/teBrC1wvL8iMNE56tXga0n?domain=147.135.11.223",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/T3InC2kwM5hpzEOVU9S5zn?domain=147.135.36.162",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/NwueC5yzP5IZLW4MulfSrc?domain=137.220.61.94",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/CcsrC4xyO7fBK73ztjNfPl?domain=5.181.234.58",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/A2PyC31xN5IpzR0XUvzaAj?domain=5.181.157.8",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://file.io/ScPd1KcJTtxO",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://stroeck.at/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://pikaluna.com/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://parencyivf.com/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://libertygospeltracts.com/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://interpolyaris.ru/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://beautyhabits.gr/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://avpvuurwerk.nl/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://1tvnews.af/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "provincial-gaiters-gw.aws-use1.cloud-ara.tyk.io",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://oldtimertreffen-rethem.de/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "pastebin.mozilla.org/Z54Vudf9/raw",
+                    "valid_from": "2022-09-01T00:00:00Z"
+                },
+                {
+                    "url": "myappearinc.com/acquire/draft/c7lh0s5jv",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/teBrC1wvL8iMNE56tXga0n?domain=147.135.11.223",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/T3InC2kwM5hpzEOVU9S5zn?domain=147.135.36.162",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/NwueC5yzP5IZLW4MulfSrc?domain=137.220.61.94",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/CcsrC4xyO7fBK73ztjNfPl?domain=5.181.234.58",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://protect-us.mimecast.com/s/A2PyC31xN5IpzR0XUvzaAj?domain=5.181.157.8",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://file.io/ScPd1KcJTtxO",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://stroeck.at/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://pikaluna.com/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://parencyivf.com/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://libertygospeltracts.com/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://interpolyaris.ru/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://beautyhabits.gr/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://avpvuurwerk.nl/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://1tvnews.af/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "provincial-gaiters-gw.aws-use1.cloud-ara.tyk.io",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "https://oldtimertreffen-rethem.de/xmlrpc.php",
+                    "valid_from": "2023-11-13T00:00:00Z"
+                },
+                {
+                    "url": "pastebin.mozilla.org/Z54Vudf9/raw",
+                    "valid_from": "2022-09-01T00:00:00Z"
+                },
+                {
+                    "url": "myappearinc.com/acquire/draft/c7lh0s5jv",
+                    "valid_from": "2015-02-01T00:00:00Z"
+                }
+            ]
+        }
+    ]
+}
