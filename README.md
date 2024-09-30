@@ -1,5 +1,9 @@
 # blue-team-con-2024-cr0ffe
 
+Contact me:
+[Twitter: croffe](https://x.com/croffe)
+[LinkedIn](https://www.linkedin.com/in/chrisroffe/)
+
 ## Download Slides
 [Link to Slide PDF](https://github.com/cr0ffe/blue-team-con-2024-cr0ffe/blob/main/blueteam_con_presentation_x2024_comp.pdf)
 
