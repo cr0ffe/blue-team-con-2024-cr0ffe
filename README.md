@@ -1,6 +1,6 @@
 # blue-team-con-2024-cr0ffe
 
-## Slides will be uploaded on 09/25/2024
+## Download Slides
 
 ## Git Shallow Clone Overview (Slide 10)
 
